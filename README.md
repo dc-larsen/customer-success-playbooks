@@ -23,15 +23,6 @@ customer-success-playbooks/
 │   ├── alerts/
 │   ├── case-study/
 │   └── health-scoring/
-├── templates/
-│   ├── playbook-template.md
-│   └── success-plan-template.md
-├── resources/
-│   ├── email-templates/
-│   ├── scripts/
-│   └── metrics/
-└── assets/
-    └── images/
 ```
 
 ## 🚀 Getting Started
