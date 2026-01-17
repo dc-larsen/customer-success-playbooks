@@ -4,7 +4,9 @@ A comprehensive collection of battle-tested customer success strategies, process
 
 ## 📚 What's Inside
 
-This repository contains proven customer success playbooks organized by key focus areas:
+### Playbooks
+
+Proven customer success playbooks organized by key focus areas:
 
 - **[Onboarding](https://github.com/dc-larsen/customer-success-playbooks/blob/main/playbooks/onboarding/onboarding.md)** - Get new customers up and running successfully
 - **[Regular Cadence Meetings](playbooks/regular-cadence-meetings/regular-cadence-meetings.md)** - Run effective customer check-ins that drive value
@@ -12,23 +14,23 @@ This repository contains proven customer success playbooks organized by key focu
 - **[Case Studies](https://github.com/dc-larsen/customer-success-playbooks/blob/main/playbooks/case-study/case-study.md)** - Turn customer wins into powerful success stories
 - **[Health Scoring](https://github.com/dc-larsen/customer-success-playbooks/blob/main/playbooks/health-scoring/health-scoring.md)** - Monitor and measure customer health metrics
 
-## 🤖 Claude Code Skills
+### Claude Code Skills
 
 Skills for [Claude Code](https://github.com/anthropics/claude-code) to automate and enhance CS workflows. Copy to `~/.claude/skills/` to use.
 
-### API Integrations
+**API Integrations**
 - **[HubSpot API](skills/api-integrations/hubspot-api.md)** - CRM integration patterns and common endpoints
 - **[Zendesk API](skills/api-integrations/zendesk-api.md)** - Support ticket automation and customer data access
 - **[Vitally API](skills/api-integrations/vitally-api.md)** - Customer success platform integration
 
-### Communication
+**Communication**
 - **[Slack Writer](skills/communication/slack-writer.md)** - Write effective Slack messages (tone, structure, avoiding "See more" collapse)
 - **[Customer Response](skills/communication/customer-response.md)** - Technical responses with a sales engineering lens
 
-### Task Management
+**Task Management**
 - **[Taskwarrior](skills/task-management/taskwarrior.md)** - CLI task management with project conventions and inbox processing
 
-### n8n Workflow Automation
+**n8n Workflow Automation**
 - **[Expression Syntax](skills/n8n/expression-syntax.md)** - Write correct n8n expressions (webhook data, node references)
 - **[Code Node (JavaScript)](skills/n8n/code-javascript.md)** - JavaScript patterns for n8n Code nodes
 - **[Code Node (Python)](skills/n8n/code-python.md)** - Python patterns for n8n Code nodes (beta)
@@ -37,7 +39,7 @@ Skills for [Claude Code](https://github.com/anthropics/claude-code) to automate 
 - **[Validation](skills/n8n/validation.md)** - Interpret and fix validation errors
 - **[Workflow Patterns](skills/n8n/workflow-patterns.md)** - Architectural patterns (webhook, API, database, AI, scheduled)
 
-### CLAUDE.md Template
+**CLAUDE.md Template**
 - **[CLAUDE-template.md](CLAUDE-template.md)** - Template for configuring Claude Code with CS workflows
 
 ## 🗂️ Repository Structure
