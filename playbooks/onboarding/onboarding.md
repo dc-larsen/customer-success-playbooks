@@ -32,6 +32,19 @@ A new customer is like starting a new relationship. You get a chance to start ov
   - Examples: vulnerabilities weren't found until production; app was getting negative performance reviews
 - **If you don't leave the call knowing their problems, you failed**
 
+### Capture the Purchase Reason
+**Before onboarding progresses, document:**
+- **What specific problems drove this purchase?** (not "security" or "visibility" but the actual pain)
+- **What was the trigger event?** (audit finding, incident, executive mandate, competitor weakness)
+- **How will they measure success internally?** (what metrics matter to their stakeholders)
+- **Document this in your CRM immediately** (it becomes the anchor for every future conversation)
+
+**This is different from "use case":**
+- Use case = what capability they'll use (e.g., vulnerability scanning)
+- Purchase reason = why they needed it now (e.g., failed SOC2 audit, incident last quarter)
+
+**If you don't know why they bought, you can't prove value at renewal.**
+
 ## 🧠 Consultative Mode
 
 ### After you understand their problems, move into consultative mode:
