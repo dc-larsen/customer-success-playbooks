@@ -2,10 +2,6 @@
 
 Use Claude Code and n8n to automate CS workflows, reduce manual work, and improve response quality.
 
-![Meeting prep example showing account data, alerts, usage, pipeline, Slack sentiment, support tickets, Linear issues, and last meeting notes aggregated into a single view](assets/meeting-prep-example.jpg)
-
-*Example: Meeting prep that pulls customer context from multiple sources into a single view (illustrative with synthetic data)*
-
 ## Objective
 
 Leverage AI tools to:
@@ -51,6 +47,12 @@ Leverage AI tools to:
 
 ### Meeting Prep
 Pull customer context from multiple sources (CRM, support tickets, usage data) into a single summary before calls.
+
+<p align="center">
+  <img src="assets/meeting-prep-example.jpg" alt="Meeting prep example showing account data, alerts, usage, pipeline, Slack sentiment, support tickets, and meeting notes" width="40%">
+  <br>
+  <em>Illustrative example with synthetic data</em>
+</p>
 
 ### Customer Communication
 Draft Slack messages and email responses with consistent tone and structure. The Slack Writer skill handles character limits and formatting.
