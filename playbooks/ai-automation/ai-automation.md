@@ -2,6 +2,10 @@
 
 Use Claude Code and n8n to automate CS workflows, reduce manual work, and improve response quality.
 
+![Meeting prep example showing account data, alerts, usage, pipeline, Slack sentiment, support tickets, Linear issues, and last meeting notes aggregated into a single view](assets/meeting-prep-example.jpg)
+
+*Example: Meeting prep that pulls customer context from multiple sources into a single view (illustrative with synthetic data)*
+
 ## Objective
 
 Leverage AI tools to:
