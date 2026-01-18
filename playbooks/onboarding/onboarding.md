@@ -24,8 +24,8 @@ A new customer is like starting a new relationship. You get a chance to start ov
 ## 📞 First Customer Call
 
 ### Focus on Problems, Not Product
-- **Keep the first 15 minutes completely void of product talk**
-- **Focus on getting to know them, the problem they have, and what they care about**
+- **Lead with their challenges, not your features**
+- **Get to know them, understand what they're trying to solve, and what success looks like for them**
 
 ### Understand Their Real Problems
 - **Remember: their problem wasn't "we didn't have your tool"**
