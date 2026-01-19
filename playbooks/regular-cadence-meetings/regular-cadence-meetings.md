@@ -6,7 +6,7 @@ Regular cadence calls are not calendar filler. Done well, they compound customer
 
 ---
 
-## 1. Start with the Meeting Type and Goal
+## 1. Start with the meeting type and goal
 
 Before you join the call, be explicit about why it exists.
 
@@ -23,20 +23,20 @@ Each meeting type has a different goal. If you don't know the goal, the customer
 
 ---
 
-## 2. Two Objectives of a Regular Cadence Call
+## 2. Two objectives of a regular cadence call
 
 For a standard recurring check-in, your job is simple:
 
 1. **Add value**
 2. **Assess account risk**
 
-That's it.
+Everything else is in service of those two outcomes.
 
 Not an interrogation. Not a feature dump. A good conversation naturally reveals risk when you ask the right questions.
 
 ---
 
-## 3. How to Add Value (The Consultative Way)
+## 3. How to add value (the consultative way)
 
 Value does not come from slides. It comes from preparation.
 
@@ -45,7 +45,7 @@ Value does not come from slides. It comes from preparation.
 - Review logins and engagement
 - Check feature adoption
 - Look at integrations connected (or missing)
-- Identify clear gaps in usage
+- Identify clear gaps in usage (for example: a missing integration, a feature adopted by one user but not the team, or usage plateauing after onboarding)
 
 **Then:**
 - Bring 1-2 specific recommendations
@@ -58,21 +58,21 @@ That's the difference between pushing features and being consultative.
 
 ---
 
-## 4. How to Assess Risk Without Making It Awkward
+## 4. How to assess risk without making it awkward
 
 Risk assessment happens in two lanes.
 
-### A. Adoption-Based Risk
+### A. Adoption-based risk
 
 Ask yourself and the customer:
 - Are they using the features required to be successful?
 - Are they solving the problems they originally bought us for?
 - Has their use case changed?
 
-### B. Sentiment-Based Risk (The Vibe Check)
+### B. Sentiment-based risk (the vibe check)
 
 Ask direct but human questions:
-- "If you had to renew today, would you?"
+- "If your renewal were today, how would you feel about it?"
 - "On a scale of 1-10, how well are we meeting the reason you bought?"
 - "What would make this a 10?"
 
@@ -80,13 +80,13 @@ The number doesn't matter. The explanation does.
 
 ---
 
-## 5. Mechanics That Build Trust
+## 5. Mechanics that build trust
 
 Small things, done consistently, matter.
 
 **Record the call and use AI notes**
 - Stay present. Don't manually take notes.
-- Use Gong or equivalent. I personally prefer Granola for notes.
+- Use Gong or an equivalent tool. The point is to stay present and let AI handle capture. I personally prefer Granola.
 
 **Send a post-call follow-up**
 - Slack or email is fine
@@ -96,7 +96,7 @@ Small things, done consistently, matter.
 
 ---
 
-## 6. Always Leave the Customer with Homework
+## 6. Always leave the customer with homework
 
 Customers should leave every call with a clear action.
 
@@ -111,11 +111,13 @@ Your job is not to click the buttons for them. Your job is to:
 - Check back on it
 - Hold the line
 
+If it doesn't happen, talk about why on the next call.
+
 Progress doesn't happen passively.
 
 ---
 
-## 7. Coach Yourself Deliberately
+## 7. Coach yourself deliberately
 
 Listen to at least one of your own calls per month.
 
@@ -131,7 +133,7 @@ If you're in a larger org, your manager is already reviewing calls. Get ahead of
 
 ---
 
-## 8. Basic Professionalism Still Matters
+## 8. Basic professionalism still matters
 
 These are obvious, but still missed:
 - Camera on
@@ -142,7 +144,7 @@ Customer Success is a long-term relationship business. Make it human. It's more 
 
 ---
 
-## 9. Upload Notes to Your CRM
+## 9. Upload notes to your CRM
 
 Do this every time.
 - It creates visibility
@@ -153,7 +155,7 @@ That alone will differentiate you internally.
 
 ---
 
-## 10. Update Risk Immediately After Meaningful Calls
+## 10. Update risk immediately after meaningful calls
 
 If a call changed how you feel about the account:
 - Update the risk score
@@ -166,7 +168,7 @@ If risk doesn't feel loud, your system is broken.
 
 ---
 
-## Final Thought
+## Final thought
 
 Great cadence calls are not about frequency. They're about intention, preparation, and follow-through.
 
@@ -174,3 +176,5 @@ Do those three things well and:
 - Value becomes obvious
 - Risk surfaces early
 - Renewals stop being surprises
+
+If this resonates, steal it. Or send it to the CSM who keeps running status calls.
