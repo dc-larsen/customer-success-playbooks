@@ -16,6 +16,11 @@ This repository contains proven customer success playbooks organized by key focu
 - **[Renewal Risk Governance](playbooks/renewal-risk-governance/renewal-risk-governance.md)** - Make renewal risk visible early with structured risk records and a review cadence
 - **[Churn Intervention](playbooks/churn-intervention/churn-intervention.md)** - A repeatable save play for at-risk accounts
 - **[AI Automation](playbooks/ai-automation/ai-automation.md)** - Use Claude Code and n8n to automate CS workflows
+- **[Claude Code Skills](playbooks/claude-code-skills/claude-code-skills.md)** - Package the CS work you repeat into reusable skills
+- **[Call Review Automation](playbooks/call-review-automation/call-review-automation.md)** - Grade your customer calls from transcripts every week
+- **[Customer Alerts Tracking](playbooks/customer-alerts-tracking/customer-alerts-tracking.md)** - Turn the alerts playbook into a system that pings you
+- **[CLAUDE.md](playbooks/claude-md/claude-md.md)** - Teach your AI assistant how you work, once
+- **[AI Second Brain with Obsidian](playbooks/ai-second-brain/ai-second-brain.md)** - A markdown knowledge base your AI can read and grow
 
 ## 🗂️ Repository Structure
 
@@ -33,7 +38,12 @@ customer-success-playbooks/
 │   ├── health-scoring/
 │   ├── renewal-risk-governance/
 │   ├── churn-intervention/
-│   └── ai-automation/          # Claude Code skills and n8n patterns
+│   ├── ai-automation/          # Claude Code skills and n8n patterns
+│   ├── claude-code-skills/
+│   ├── call-review-automation/
+│   ├── customer-alerts-tracking/
+│   ├── claude-md/
+│   └── ai-second-brain/
 └── skills/                     # Referenced by ai-automation playbook
     ├── api-integrations/
     ├── communication/
