@@ -7,9 +7,11 @@ A comprehensive collection of battle-tested customer success strategies, process
 This repository contains proven customer success playbooks organized by key focus areas:
 
 - **[Onboarding](playbooks/onboarding/onboarding.md)** - Get new customers up and running successfully
+- **[Onboarding Metrics](playbooks/onboarding-metrics/onboarding-metrics.md)** - Define, track, and improve onboarding success across your customer base
 - **[Regular Cadence Meetings](playbooks/regular-cadence-meetings/regular-cadence-meetings.md)** - Run effective customer check-ins that drive value
 - **[Proactive Alerts](playbooks/alerts/alerts.md)** - Stay ahead of customer needs with automated monitoring
 - **[Case Studies](playbooks/case-study/case-study.md)** - Turn customer wins into powerful success stories
+- **[Expansion & Adoption](playbooks/expansion-adoption/expansion-adoption.md)** - Spot expansion early and earn it through deeper adoption
 - **[Health Scoring](playbooks/health-scoring/health-scoring.md)** - Monitor and measure customer health metrics
 - **[Renewal Risk Governance](playbooks/renewal-risk-governance/renewal-risk-governance.md)** - Make renewal risk visible early with structured risk records and a review cadence
 - **[Churn Intervention](playbooks/churn-intervention/churn-intervention.md)** - A repeatable save play for at-risk accounts
@@ -23,9 +25,11 @@ customer-success-playbooks/
 ├── CLAUDE-template.md
 ├── playbooks/
 │   ├── onboarding/
+│   ├── onboarding-metrics/
 │   ├── regular-cadence-meetings/
 │   ├── alerts/
 │   ├── case-study/
+│   ├── expansion-adoption/
 │   ├── health-scoring/
 │   ├── renewal-risk-governance/
 │   ├── churn-intervention/
