@@ -11,6 +11,8 @@ This repository contains proven customer success playbooks organized by key focu
 - **[Proactive Alerts](playbooks/alerts/alerts.md)** - Stay ahead of customer needs with automated monitoring
 - **[Case Studies](playbooks/case-study/case-study.md)** - Turn customer wins into powerful success stories
 - **[Health Scoring](playbooks/health-scoring/health-scoring.md)** - Monitor and measure customer health metrics
+- **[Renewal Risk Governance](playbooks/renewal-risk-governance/renewal-risk-governance.md)** - Make renewal risk visible early with structured risk records and a review cadence
+- **[Churn Intervention](playbooks/churn-intervention/churn-intervention.md)** - A repeatable save play for at-risk accounts
 - **[AI Automation](playbooks/ai-automation/ai-automation.md)** - Use Claude Code and n8n to automate CS workflows
 
 ## 🗂️ Repository Structure
@@ -25,6 +27,8 @@ customer-success-playbooks/
 │   ├── alerts/
 │   ├── case-study/
 │   ├── health-scoring/
+│   ├── renewal-risk-governance/
+│   ├── churn-intervention/
 │   └── ai-automation/          # Claude Code skills and n8n patterns
 └── skills/                     # Referenced by ai-automation playbook
     ├── api-integrations/
